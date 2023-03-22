@@ -9,12 +9,12 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: #fff;
-    color: #000;
+    background-color: #0a0a0a;
+    color: #fafafa;
 }
 
 .container_price{
-    color: #000;
+    color: #fff;
     font-size: 1.5rem;
     font-weight: 400;
 }
